@@ -32,91 +32,67 @@ fun_fact: I turn ☕ into code
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" height="25" /> Tech Stack
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" /> Languages
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>Python</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>TypeScript</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>Java</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>C++</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>C</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>Rust</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="36" height="36" /></td>
-    <td width="65%"><code>........................................................</code></td>
-    <td align="left"><b>Go</b></td>
-  </tr>
-</table>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="22" height="22" /> Frontend & 3D
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css,figma&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Python</b><br/>
+  <img src="https://skillicons.dev/icons?i=js" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>JavaScript</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>TypeScript</b><br/>
+  <img src="https://skillicons.dev/icons?i=java" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Java</b><br/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>C++</b><br/>
+  <img src="https://skillicons.dev/icons?i=c" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>C</b><br/>
+  <img src="https://skillicons.dev/icons?i=rust" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Rust</b><br/>
+  <img src="https://skillicons.dev/icons?i=go" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Go</b>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="22" height="22" /> Backend & Frameworks
+<h3 align="center">Frontend &amp; 3D</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>React</b><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Next.js</b><br/>
+  <img src="https://skillicons.dev/icons?i=threejs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Three.js</b><br/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Tailwind CSS</b><br/>
+  <img src="https://skillicons.dev/icons?i=html" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>HTML</b><br/>
+  <img src="https://skillicons.dev/icons?i=css" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>CSS</b><br/>
+  <img src="https://skillicons.dev/icons?i=figma" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Figma</b>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22" height="22" /> AI / ML
+<h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=django" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Django</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>FastAPI</b><br/>
+  <img src="https://skillicons.dev/icons?i=flask" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Flask</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Node.js</b><br/>
+  <img src="https://skillicons.dev/icons?i=express" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Express</b>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="22" height="22" /> DevOps & Cloud
+<h3 align="center">AI / ML</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PyTorch</b><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>TensorFlow</b>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22" height="22" /> Databases
+<h3 align="center">DevOps &amp; Cloud</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Docker</b><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Kubernetes</b><br/>
+  <img src="https://skillicons.dev/icons?i=aws" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>AWS</b><br/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>GitHub Actions</b><br/>
+  <img src="https://skillicons.dev/icons?i=linux" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Linux</b><br/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Nginx</b>
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" width="22" height="22" /> Tools
+<h3 align="center">Databases</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,neovim,postman,figma&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PostgreSQL</b><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>MongoDB</b><br/>
+  <img src="https://skillicons.dev/icons?i=redis" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Redis</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>MySQL</b>
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Git</b><br/>
+  <img src="https://skillicons.dev/icons?i=neovim" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Neovim</b><br/>
+  <img src="https://skillicons.dev/icons?i=postman" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Postman</b>
 </p>
 
 ---
