@@ -90,9 +90,12 @@ fun_fact: I turn ☕ into code
 
 <h3 align="center">Tools</h3>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>VS Code</b><br/>
+  <img src="https://skillicons.dev/icons?i=pycharm" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PyCharm</b><br/>
+  <img src="https://skillicons.dev/icons?i=clion" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>CLion</b><br/>
+  <img src="https://skillicons.dev/icons?i=cursor" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Cursor</b><br/>
   <img src="https://skillicons.dev/icons?i=git" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Git</b><br/>
-  <img src="https://skillicons.dev/icons?i=neovim" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Neovim</b><br/>
-  <img src="https://skillicons.dev/icons?i=postman" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Postman</b>
+  <img src="https://skillicons.dev/icons?i=neovim" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Neovim</b>
 </p>
 
 ---
