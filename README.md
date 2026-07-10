@@ -32,70 +32,53 @@ fun_fact: I turn ☕ into code
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25" height="25" /> Tech Stack
 
-<h3 align="center">Languages</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" /> Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Python</b><br/>
-  <img src="https://skillicons.dev/icons?i=js" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>JavaScript</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>TypeScript</b><br/>
-  <img src="https://skillicons.dev/icons?i=java" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Java</b><br/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>C++</b><br/>
-  <img src="https://skillicons.dev/icons?i=c" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>C</b><br/>
-  <img src="https://skillicons.dev/icons?i=rust" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Rust</b><br/>
-  <img src="https://skillicons.dev/icons?i=go" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Go</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,rust,go&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">Frontend &amp; 3D</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="22" height="22" /> Frontend & 3D
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>React</b><br/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Next.js</b><br/>
-  <img src="https://skillicons.dev/icons?i=threejs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Three.js</b><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Tailwind CSS</b><br/>
-  <img src="https://skillicons.dev/icons?i=html" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>HTML</b><br/>
-  <img src="https://skillicons.dev/icons?i=css" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>CSS</b><br/>
-  <img src="https://skillicons.dev/icons?i=figma" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Figma</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css,figma&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">Backend</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" width="22" height="22" /> Backend & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Django</b><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>FastAPI</b><br/>
-  <img src="https://skillicons.dev/icons?i=flask" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Flask</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Node.js</b><br/>
-  <img src="https://skillicons.dev/icons?i=express" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Express</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">AI / ML</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="22" height="22" /> AI / ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PyTorch</b><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>TensorFlow</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">DevOps &amp; Cloud</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="22" height="22" /> DevOps & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Docker</b><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Kubernetes</b><br/>
-  <img src="https://skillicons.dev/icons?i=aws" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>AWS</b><br/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>GitHub Actions</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Linux</b><br/>
-  <img src="https://skillicons.dev/icons?i=nginx" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Nginx</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux,nginx&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">Databases</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="22" height="22" /> Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PostgreSQL</b><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>MongoDB</b><br/>
-  <img src="https://skillicons.dev/icons?i=redis" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Redis</b><br/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>MySQL</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">Tools</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" width="22" height="22" /> Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>VS Code</b><br/>
-  <img src="https://skillicons.dev/icons?i=pycharm" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>PyCharm</b><br/>
-  <img src="https://skillicons.dev/icons?i=clion" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>CLion</b><br/>
-  <img src="https://skillicons.dev/icons?i=cursor" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Cursor</b><br/>
-  <img src="https://skillicons.dev/icons?i=git" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Git</b><br/>
-  <img src="https://skillicons.dev/icons?i=neovim" width="36" />&nbsp;<code>.........................................</code>&nbsp;<b>Neovim</b>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,cursor,git,neovim&perline=8" />
+  </a>
 </p>
 
 ---
