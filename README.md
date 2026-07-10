@@ -34,16 +34,48 @@ fun_fact: I turn ☕ into code
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" height="22" /> Languages
 
-```
-🐍  Python ........................ ✅
-🟨  JavaScript .................... ✅
-🔷  TypeScript .................... ✅
-☕  Java .......................... ✅
-⚡  C++ ........................... ✅
-🔵  C ............................. ✅
-🦀  Rust .......................... ✅
-🐹  Go ............................ ✅
-```
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>Python</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>JavaScript</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>TypeScript</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>Java</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>C++</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>C</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rust" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>Rust</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="36" height="36" /></td>
+    <td width="65%"><code>........................................................</code></td>
+    <td align="left"><b>Go</b></td>
+  </tr>
+</table>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="22" height="22" /> Frontend & 3D
 <p align="center">
